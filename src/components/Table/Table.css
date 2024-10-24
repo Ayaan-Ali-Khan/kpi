@@ -1,0 +1,44 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border-spacing: 20px;
+}
+table tr{
+    text-align: left;
+}
+table th, table td{
+    padding: 20px;
+}
+table thead tr{
+    border-bottom: 0.5px solid rgb(175, 175, 175);
+    height: 80px;
+}
+table tbody tr{
+    border-bottom: 0.5px solid rgb(175, 175, 175);
+    height: 80px;
+}
+.cellWrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 3.5px;
+}
+.cellWrapper>img {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-right: 12px;
+    object-fit: cover;
+}
+.status{
+    border-radius: 5px;
+    &.Approved{
+        color: green;
+        font-weight: 700;
+        /* background-color: rgba(0, 128, 0, 0.151); */
+    }
+    &.Pending{
+        color: goldenrod;
+        font-weight: 700;
+        /* background-color: rgba(189, 189, 3, 0.103); */
+    }
+}

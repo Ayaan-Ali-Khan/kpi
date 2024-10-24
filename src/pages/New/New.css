@@ -1,0 +1,78 @@
+.new{
+    width: 100%;
+    display: flex;
+}
+.newContainer{
+    flex: 5;
+}
+.newTop, .newBottom{
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    padding: 20px;
+    margin: 20px 30px;
+    display: flex;
+}
+.newBottom{
+    padding: 30px;
+}
+.newBottomLeft{
+    flex: 1;
+    text-align: center;
+}
+.newBottomLeft img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.newBottomRight{
+    flex: 3;
+}
+.newBottomRight form{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 30px;
+}
+.newBottomRight form .formInput{
+    width: 40%;
+    margin-right: 5px;
+    label{
+        display: flex;
+        align-items: center;
+        margin-bottom: 8px;
+    }
+    .fileIcon{
+        cursor: pointer;
+        margin-left: 8px;
+    }
+    input{
+        width: 100%;
+        padding: 5px;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid gray;
+    }
+}
+.newBottomRight form button{
+    width: 100px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 8px 10px;
+    color: blueviolet;
+    background-color: white;
+    border-radius: 8px;
+    border: 1.2px solid blueviolet;
+    cursor: pointer;
+    transition: all 110ms;
+
+    &:hover{
+        background-color: blueviolet;
+        border: 1.2px solid blueviolet;
+        color: azure;
+    }
+    &:active{
+        border: 1.2px solid rgb(118, 0, 228);
+        background-color: rgb(118, 0, 228);
+    }
+}

@@ -1,0 +1,57 @@
+.sidebar {
+    /* background-color: lightcoral; */
+    flex: 1;
+    border-right: 0.5px solid rgb(230, 227, 227);
+    min-height: 97vh;
+}
+
+.top {
+    color: blueviolet;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+hr {
+    height: 0;
+    border: 0.5px solid rgb(230, 227, 227);
+}
+
+.center {
+    padding-left: 20px;
+}
+
+ul {
+    padding: 0;
+}
+.title{
+    font-size: 14px;
+    font-weight: bold;
+    color: #929292;
+    margin-top: 16px;
+    margin-bottom: 5px;
+}
+li{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    cursor: pointer;
+}
+li:hover{
+    background-color: #ece8ff;
+}
+.icon{
+    font-size: 1rem;
+    color: blueviolet;
+}
+.list-itm{
+    font-size: 13px;
+    color: rgb(119, 119, 119);
+    margin-left: 10px;
+}

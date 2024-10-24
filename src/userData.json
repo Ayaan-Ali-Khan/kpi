@@ -1,0 +1,202 @@
+[
+    {
+        "address": "123 Elm St",
+        "age": 25,
+        "email": "johndoe1@example.com",
+        "name": "John Doe",
+        "username": "johndoe1",
+        "password": "password123",
+        "phone_no": 1234567890,
+        "country": "USA"
+    },
+    {
+        "address": "456 Oak St",
+        "age": 30,
+        "email": "janedoe2@example.com",
+        "name": "Jane Doe",
+        "username": "janedoe2",
+        "password": "securepass456",
+        "phone_no": 2345678901,
+        "country": "Canada"
+    },
+    {
+        "address": "789 Pine St",
+        "age": 22,
+        "email": "alice@example.com",
+        "name": "Alice Smith",
+        "username": "alice_smith",
+        "password": "mypassword789",
+        "phone_no": 3456789012,
+        "country": "UK"
+    },
+    {
+        "address": "101 Maple Ave",
+        "age": 28,
+        "email": "bob@example.com",
+        "name": "Bob Johnson",
+        "username": "bob_johnson",
+        "password": "johnson321",
+        "phone_no": 4567890123,
+        "country": "USA"
+    },
+    {
+        "address": "111 Cedar Ln",
+        "age": 35,
+        "email": "charlie@example.com",
+        "name": "Charlie Brown",
+        "username": "charlie_brown",
+        "password": "brown567",
+        "phone_no": 5678901234,
+        "country": "Australia"
+    },
+    {
+        "address": "202 Birch St",
+        "age": 27,
+        "email": "diana@example.com",
+        "name": "Diana Prince",
+        "username": "diana_prince",
+        "password": "wonderwoman",
+        "phone_no": 6789012345,
+        "country": "New Zealand"
+    },
+    {
+        "address": "303 Spruce St",
+        "age": 32,
+        "email": "eddie@example.com",
+        "name": "Eddie Brock",
+        "username": "eddie_brock",
+        "password": "venom123",
+        "phone_no": 7890123456,
+        "country": "USA"
+    },
+    {
+        "address": "404 Chestnut Ave",
+        "age": 26,
+        "email": "frank@example.com",
+        "name": "Frank Castle",
+        "username": "frank_castle",
+        "password": "punisher001",
+        "phone_no": 8901234567,
+        "country": "Canada"
+    },
+    {
+        "address": "505 Redwood St",
+        "age": 23,
+        "email": "grace@example.com",
+        "name": "Grace Hopper",
+        "username": "grace_hopper",
+        "password": "compiler789",
+        "phone_no": 9012345678,
+        "country": "UK"
+    },
+    {
+        "address": "606 Palm St",
+        "age": 29,
+        "email": "harry@example.com",
+        "name": "Harry Potter",
+        "username": "harry_potter",
+        "password": "expelliarmus",
+        "phone_no": 1234567890,
+        "country": "USA"
+    },
+    {
+        "address": "707 Willow Ave",
+        "age": 33,
+        "email": "ida@example.com",
+        "name": "Ida Lovelace",
+        "username": "ida_lovelace",
+        "password": "algorithms123",
+        "phone_no": 2345678901,
+        "country": "Canada"
+    },
+    {
+        "address": "808 Cypress Rd",
+        "age": 24,
+        "email": "jack@example.com",
+        "name": "Jack Sparrow",
+        "username": "jack_sparrow",
+        "password": "pirate007",
+        "phone_no": 3456789012,
+        "country": "UK"
+    },
+    {
+        "address": "909 Acacia St",
+        "age": 31,
+        "email": "karen@example.com",
+        "name": "Karen Page",
+        "username": "karen_page",
+        "password": "page456",
+        "phone_no": 4567890123,
+        "country": "Australia"
+    },
+    {
+        "address": "1010 Magnolia Blvd",
+        "age": 36,
+        "email": "louis@example.com",
+        "name": "Louis Armstrong",
+        "username": "louis_armstrong",
+        "password": "jazz123",
+        "phone_no": 5678901234,
+        "country": "New Zealand"
+    },
+    {
+        "address": "1111 Sequoia Dr",
+        "age": 26,
+        "email": "marie@example.com",
+        "name": "Marie Curie",
+        "username": "marie_curie",
+        "password": "radioactive456",
+        "phone_no": 6789012345,
+        "country": "USA"
+    },
+    {
+        "address": "1212 Fir St",
+        "age": 34,
+        "email": "nick@example.com",
+        "name": "Nick Fury",
+        "username": "nick_fury",
+        "password": "shield001",
+        "phone_no": 7890123456,
+        "country": "Canada"
+    },
+    {
+        "address": "1313 Dogwood St",
+        "age": 28,
+        "email": "oscar@example.com",
+        "name": "Oscar Wilde",
+        "username": "oscar_wilde",
+        "password": "wildethemes",
+        "phone_no": 8901234567,
+        "country": "UK"
+    },
+    {
+        "address": "1414 Laurel Ave",
+        "age": 29,
+        "email": "paul@example.com",
+        "name": "Paul McCartney",
+        "username": "paul_mccartney",
+        "password": "beatles123",
+        "phone_no": 9012345678,
+        "country": "Australia"
+    },
+    {
+        "address": "1515 Hawthorn St",
+        "age": 32,
+        "email": "quentin@example.com",
+        "name": "Quentin Tarantino",
+        "username": "quentin_tarantino",
+        "password": "movies007",
+        "phone_no": 1234567890,
+        "country": "USA"
+    },
+    {
+        "address": "1616 Poplar Blvd",
+        "age": 35,
+        "email": "rachel@example.com",
+        "name": "Rachel Green",
+        "username": "rachel_green",
+        "password": "friends456",
+        "phone_no": 2345678901,
+        "country": "Canada"
+    }
+]
